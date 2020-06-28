@@ -1,12 +1,11 @@
 ---
 name: Cause Template
 subtitle: Not for profit template for Jekyll
-external_url: https://github.com/CloudCannon/cause-jekyll-template
-image_path: /images/clients/cause.jpg
+external_url: 'https://github.com/CloudCannon/cause-jekyll-template'
+image_path: /images/clients/2f54052f-16f7-4115-8307-90cb2609c382.JPG
 ---
 
-Not for profit themed template for Jekyll. Browse through a [live demo](https://clean-oryx.cloudvent.net/).
-Increase the web presence of a not for profit or cause website with this configurable theme.
+Not for profit themed template for Jekyll. Browse through a [live demo](https://clean-oryx.cloudvent.net/). Increase the web presence of a not for profit or cause website with this configurable theme.
 
 CloudCannon was made by [CloudCannon](https://cloudcannon.com/), the Cloud CMS for Jekyll.
 
@@ -33,7 +32,7 @@ Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Ac
 
 Cause was built with [Jekyll](https://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
 
-Install the dependencies with [Bundler](https://bundler.io/):
+Install the dependencies with [Bundler](https://bundler.io/)\:
 
 ~~~bash
 $ bundle install
@@ -56,6 +55,7 @@ This site uses the [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) pl
 ## Google Analytics
 
 [Google Analytics](https://www.google.com/analytics/) is a third party website analytics tool. To install:
+
 1. Add your Google Analytics key to `_config.yml`
 2. Run your site in production `JEKYLL_ENV=production`. This is the default in CloudCannon and GitHub Pages.
 
