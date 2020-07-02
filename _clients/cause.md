@@ -1,11 +1,9 @@
 ---
-name: Cause Template
-subtitle: Not for profit template for Jekyll
+name: Covid overalls
+subtitle: High quality covid overalls
 external_url: 'https://github.com/CloudCannon/cause-jekyll-template'
 image_path: /images/clients/2f54052f-16f7-4115-8307-90cb2609c382.JPG
 ---
-
-&nbsp;
 
 &nbsp;
 
