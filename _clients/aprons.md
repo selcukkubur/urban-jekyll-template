@@ -1,6 +1,6 @@
 ---
 name: Edition Template
-subtitle: Product documentation template for Jekyll
+subtitle: Protective Aprons
 external_url: 'https://github.com/CloudCannon/edition-jekyll-template'
 image_path: /uploads/emr-medikal-koruyucu-tulum-önlük.jpeg
 ---
@@ -33,6 +33,6 @@ Disposable Protective Cape Anti-Microbial Quarantine Protective Clothing
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;For inquiry Contact us\!
 
-### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [order@covidics.com](mailto:order@covidics.com)
+### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;[order@covidics.com](mailto:order@covidics.com)
 
 ## &nbsp;
