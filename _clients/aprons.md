@@ -1,5 +1,5 @@
 ---
-name: Edition Template
+name: Aprons
 subtitle: Protective Aprons
 external_url: 'https://github.com/CloudCannon/edition-jekyll-template'
 image_path: /uploads/emr-medikal-koruyucu-tulum-önlük.jpeg
