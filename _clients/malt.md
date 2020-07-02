@@ -1,12 +1,12 @@
 ---
-name: Malt Template
-subtitle: Event marketing template for Jekyll
-external_url: https://github.com/CloudCannon/malt-jekyll-template
-image_path: /images/clients/malt.jpg
+name: Covid Clothes catalog
+subtitle: Read Our new catalog
+external_url: >-
+  https://www.yumpu.com/en/document/read/63590559/covidics-pandemic-accessories-catalog
+image_path: /images/logo2.png
 ---
 
-Event marketing template for Jekyll. Browse through a [live demo](https://whispering-boat.cloudvent.net/).
-Increase the web presence of your event with this configurable theme.
+Event marketing template for Jekyll. Browse through a [live demo](https://whispering-boat.cloudvent.net/). Increase the web presence of your event with this configurable theme.
 
 CloudCannon was made by [CloudCannon](https://cloudcannon.com/), the Cloud CMS for Jekyll.
 
@@ -34,7 +34,7 @@ Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Ac
 
 Malt was built with [Jekyll](https://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
 
-Install the dependencies with [Bundler](https://bundler.io/):
+Install the dependencies with [Bundler](https://bundler.io/)\:
 
 ~~~bash
 $ bundle install
