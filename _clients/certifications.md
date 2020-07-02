@@ -1,8 +1,8 @@
 ---
 name: Frisco Template
 subtitle: App marketing template for Jekyll
-external_url: https://github.com/CloudCannon/frisco-jekyll-template
-image_path: /images/clients/frisco.jpg
+external_url: 'https://github.com/CloudCannon/frisco-jekyll-template'
+image_path: /uploads/13040-emr-tekstil-önlük-ce-sertifika-i̇mzalı-draft-scaled.jpg
 ---
 
 # Our Certifications
