@@ -30,3 +30,9 @@ Disposable Protective Cover all, Disposable Anti-Microbial Quarantine Protective
 • &nbsp; &nbsp;Independent packaging design, it is easy to use and fits comfortably.
 
 • &nbsp; &nbsp;It is comfortable to wear for long hours zip open front.
+
+&nbsp;
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For inquiry Contact us\!
+
+### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [order@covidics.com](mailto:order@covidics.com)
