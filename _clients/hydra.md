@@ -1,81 +1,38 @@
 ---
-name: Hydra Template
-subtitle: Product marketing template for Jekyll
-external_url: https://github.com/CloudCannon/hydra-jekyll-template
-image_path: /images/clients/hydra.png
+name: Face Shield VISOR
+subtitle: High quality face shield
+external_url: 'https://github.com/CloudCannon/hydra-jekyll-template'
+image_path: /uploads/screen-shot-2020-07-02-at-18-54-56.png
 ---
 
-Marketing site template for Jekyll. Browse through a [live demo](https://proud-alligator.cloudvent.net/).
-Increase the web presence of your brand with this configurable theme.
+# **FACE SHİELD**
 
-Hydra was made by [CloudCannon](https://cloudcannon.com/), the Cloud CMS for Jekyll.
+Covidics launches the Protective Face Shield, The Complete Personal Protective Equipment (PPE). It is the Need of the Hour to fight against the ambush COVID-19.
 
-Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
+![](/uploads/5ec7b21e5bb0d.jpg){: width="3452" height="2919"}
 
-## Features
+![](/uploads/covid-19-virus-protection-face-shield-900x1200.jpg){: width="900" height="1200"}
 
-* Contact form
-* Pre-built pages
-* Pre-styled components
-* Blog with pagination
-* Post category pages
-* Disqus comments for posts
-* Staff and author system
-* Configurable footer
-* Optimised for editing in [CloudCannon](https://cloudcannon.com/)
-* RSS/Atom feed
-* SEO tags
-* Google Analytics
+![](/uploads/jwlanti-fogsplash-prooffaceshieldmask.jpg){: width="600" height="600"}
 
-## Setup
+## ![](/uploads/medical-splash-protection-face-shields-pack-of-10-pre-order-p3073-227631-zoom.jpg){: width="2000" height="3000"}
 
-1. Add your site and author details in `_config.yml`.
-2. Add your Google Analytics and Disqus keys to `_config.yml`.
-3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
+## Specs
 
-## Develop
+• &nbsp; &nbsp;Thickness (Visor): 400 Microns
 
-Hydra was built with [Jekyll](https://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
+• &nbsp; &nbsp;Height: 205mm
 
-Install the dependencies with [Bundler](https://bundler.io/):
+• &nbsp; &nbsp;Width: 400mm
 
-~~~bash
-$ bundle install
-~~~
+• &nbsp; &nbsp;Material (Visor): Pet Sheet
 
-Run `jekyll` commands through Bundler to ensure you're using the right versions:
+• &nbsp; &nbsp;Elastic band/strap at the back for proper grip
 
-~~~bash
-$ bundle exec jekyll serve
-~~~
+• &nbsp; &nbsp;Stretchable headband to fit bigger head sizes
 
-## Editing
+• &nbsp; &nbsp;Weight:40 grams
 
-Hydra is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in CloudCannon.
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; For inquiry Contact us\!
 
-### Posts
-
-* Add, update or remove a post in the *Posts* collection.
-* The **Staff Author** field links to members in the **Staff** collection.
-* Documentation pages are organised in the navigation by category, with URLs based on the path inside the `_docs` folder.
-* Change the defaults when new posts are created in `_posts/_defaults.md`.
-
-### Contact Form
-
-* Preconfigured to work with CloudCannon, but easily changed to another provider (e.g. [FormSpree](https://formspree.io/)).
-* Sends email to the address listed in company details.
-
-### Staff
-
-* Reused around the site to save multiple editing locations.
-* Add `excluded_in_search: true` to any documentation page's front matter to exclude that page in the search results.
-
-### Navigation
-
-* Exposed as a data file to give clients better access.
-* Set in the *Data* / *Navigation* section.
-
-### Footer
-
-* Exposed as a data file to give clients better access.
-* Set in the *Data* / *Footer* section.
+### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[order@covidics.com](mailto:order@covidics.com)
