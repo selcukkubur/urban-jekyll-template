@@ -1,6 +1,6 @@
 ---
-name: Frisco Template
-subtitle: App marketing template for Jekyll
+name: CE Certification
+subtitle: certificate of conformity
 external_url: 'https://github.com/CloudCannon/frisco-jekyll-template'
 image_path: /uploads/13040-emr-tekstil-önlük-ce-sertifika-i̇mzalı-draft-scaled.jpg
 ---
