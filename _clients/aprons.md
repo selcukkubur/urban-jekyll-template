@@ -1,8 +1,8 @@
 ---
 name: Edition Template
 subtitle: Product documentation template for Jekyll
-external_url: https://github.com/CloudCannon/edition-jekyll-template
-image_path: /images/clients/edition.png
+external_url: 'https://github.com/CloudCannon/edition-jekyll-template'
+image_path: /uploads/emr-medikal-koruyucu-tulum-önlük.jpeg
 ---
 
 # Protective Apron
