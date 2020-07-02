@@ -6,69 +6,8 @@ external_url: >-
 image_path: /images/logo2.png
 ---
 
-Event marketing template for Jekyll. Browse through a [live demo](https://whispering-boat.cloudvent.net/). Increase the web presence of your event with this configurable theme.
+With our new catalog , you can check models and specs.
 
-CloudCannon was made by [CloudCannon](https://cloudcannon.com/), the Cloud CMS for Jekyll.
+Just reach us for volume sales.
 
-Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
-
-## Features
-
-* Pre-built page
-* Pre-styled components
-* Optimised for editing in [CloudCannon](https://cloudcannon.com/)
-* SEO tags
-* Google Analytics
-* [EventBrite](https://www.eventbrite.com/)
-* Contact Form
-* Featured
-* Image Gallery
-
-## Setup
-
-1. Add your site details in `_config.yml`.
-2. Add your Google Analytics to `_config.yml`.
-3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
-
-## Develop
-
-Malt was built with [Jekyll](https://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
-
-Install the dependencies with [Bundler](https://bundler.io/)\:
-
-~~~bash
-$ bundle install
-~~~
-
-Run `jekyll` commands through Bundler to ensure you're using the right versions:
-
-~~~bash
-$ bundle exec jekyll serve
-~~~
-
-## Editing
-
-Malt is already optimised for updating pages, company details and footer elements in CloudCannon.
-
-## SEO Tag
-
-This site uses the [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) plugin. You should at least set a title in front matter on each page. Have a look at the [project page](https://github.com/jekyll/jekyll-seo-tag) for more options.
-
-## Google Analytics
-
-[Google Analytics](https://www.google.com/analytics/) is a third party website analytics tool. To install:
-
-1. Add your Google Analytics key to `_config.yml`.
-2. Run your site in production `JEKYLL_ENV=production` (the default for CloudCannon and GitHub Pages).
-
-## EventBrite
-
-[EventBrite](https://www.eventbrite.com/) is a third party embeddable event module for websites. To install:
-
-1. Create an event on EventBrite.
-2. Copy the Ticket Form embed code from the Widgets menu item.
-3. Paste it into `eventbrite_embed` in `_config.yml`.
-
-## Image gallery / Featured
-
-The image gallery is populated by a front matter array in `index.html`. To add items just copy the existing structure.
+#### [Covidics Pandemic Accessories Catalog](https://www.yumpu.com/en/document/read/63590559/covidics-pandemic-accessories-catalog)
